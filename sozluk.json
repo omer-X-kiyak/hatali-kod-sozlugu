@@ -1,0 +1,16 @@
+{
+    "SyntaxError": "Programlama dilinin kurallarına uymayan bir sözdizimi hatasıdır.",
+    "TypeError": "Bir işlem veya fonksiyon, beklenmeyen bir veri türüyle çalıştığı zaman ortaya çıkan hatadır.",
+    "NameError": "Tanımlanmamış bir değişken kullanıldığında ortaya çıkan hatadır.",
+    "IndexError": "Liste, dize veya demet gibi bir dizinlenebilir veri tipinde, belirtilen indeksin geçerli olmadığı zaman ortaya çıkan hatadır.",
+    "KeyError": "Bir sözlükte olmayan bir anahtarla erişilmeye çalışıldığında ortaya çıkan hatadır.",
+    "ValueError": "Bir fonksiyona verilen argümanların geçerli veri türlerine sahip olmadığı veya beklenen bir değer aralığının dışında olduğu zaman ortaya çıkan hatadır.",
+    "ZeroDivisionError": "Bir sayı sıfıra bölünmeye çalışıldığında ortaya çıkan hatadır.",
+    "IndentationError": "Programlama dilinin yapılandırma kurallarına uymayan bir girinti hatasıdır.",
+    "AttributeError": "Bir nesne, var olmayan bir özelliğe veya yönteme erişmeye çalışıldığında ortaya çıkan hatadır.",
+    "FileNotFoundError": "Belirtilen dosya yolunda bir dosya bulunamadığında ortaya çıkan hatadır.",
+    "ImportError": "Bir modül veya paket yüklenemediğinde ortaya çıkan hatadır.",
+    "AttributeError": "Bir nesne, var olmayan bir özelliğe veya yönteme erişmeye çalışıldığında ortaya çıkan hatadır.",
+    "OverflowError": "Sayısal bir hesaplama işlemi sırasında, sonucun maksimum veya minimum değerleri aştığı zaman ortaya çıkan hatadır.",
+    "UnboundLocalError": "Bir yerel değişkenin tanımlanmadığı ve kullanılmaya çalışıldığı zaman ortaya çıkan hatadır."  
+}
